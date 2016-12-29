@@ -1,0 +1,3 @@
+allow sdcardd fuse_device:dir { remove_name add_name search create rw_file_perms };
+allow sdcardd fuse_device:file { create rw_file_perms };
+allow sdcardd fuse_device:filesystem { getattr };
