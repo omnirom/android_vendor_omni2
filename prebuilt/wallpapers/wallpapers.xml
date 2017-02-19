@@ -16,13 +16,13 @@
  -->
 
 <wallpapers>
-    <wallpaper filename="wall01.jpg" creator="PartimusPrime" />
-    <wallpaper filename="wall02.jpg" />
-    <wallpaper filename="wall03.jpg" />
-    <wallpaper filename="wall04.jpg" />
-    <wallpaper filename="wall05.jpg" />
-    <wallpaper filename="wall06.jpg" />
-    <wallpaper filename="wall07.jpg" />
+    <wallpaper filename="wall01.png" creator="PartimusPrime" name="Default" />
+    <wallpaper filename="wall02.png" />
+    <wallpaper filename="wall03.png" />
+    <wallpaper filename="wall04.png" />
+    <wallpaper filename="wall05.png" />
+    <wallpaper filename="wall06.png" />
+    <wallpaper filename="wall07.jpg" creator="JP Kenji" />
     <wallpaper filename="wall08.jpg" creator="JP Kenji" />
     <wallpaper filename="wall09.jpg" creator="JP Kenji" />
     <wallpaper filename="wall10.jpg" creator="JP Kenji" />
