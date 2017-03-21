@@ -9,6 +9,7 @@ endif
 PRODUCT_PACKAGES += \
     Apollo \
     MonthCalendarWidget \
+    MusicFX \
     OpenDelta \
     OmniSwitch \
     Chromium \
@@ -16,7 +17,7 @@ PRODUCT_PACKAGES += \
     OmniStyle \
     QuickSearchBox \
     OmniClockOSS \
-    MusicFX \
+    Phonograph \
     audio_effects.conf \
     libcyanogen-dsp
 
