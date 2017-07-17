@@ -63,6 +63,10 @@ PRODUCT_PROPERTY_OVERRIDES += \
     ro.config.notification_sound=omni_notification1.ogg \
     ro.config.alarm_alert=omni_alarm1.ogg
 
+# by default show selinux status
+PRODUCT_PROPERTY_OVERRIDES += \
+    ro.build.selinux=1
+
 PRODUCT_COPY_FILES += \
     vendor/omni/prebuilt/sounds/camera_click_48k.ogg:system/media/audio/ui/camera_click.ogg \
     vendor/omni/prebuilt/sounds/VideoRecord_48k.ogg:system/media/audio/ui/VideoRecord.ogg \
