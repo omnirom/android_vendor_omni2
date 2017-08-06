@@ -20,7 +20,8 @@ PRODUCT_PACKAGES += \
     libcyanogen-dsp \
     Phonograph \
     Turbo \
-    MatLog
+    MatLog \
+    OmniTheme
 
 PRODUCT_PACKAGES += \
     CellBroadcastReceiver
